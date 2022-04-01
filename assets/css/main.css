@@ -2612,7 +2612,7 @@ input, select, textarea {
 
 
 .logo-img{
-	height: 10em;
+	height: 100%;
 }
 
 	ul.actions {
@@ -3653,6 +3653,7 @@ input, select, textarea {
 
 							#wrapper > section.intro > header ul.actions {
 								display: none;
+							
 							}
 
 							#wrapper > section.intro > header > * {
